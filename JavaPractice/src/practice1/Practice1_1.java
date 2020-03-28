@@ -2,7 +2,7 @@ package practice1;
 
 public class Practice1_1 {
 
-	//test2
+	//test2csd
 	public static void main(String[] args) {
 		for (int i = 1; i < 10; i++) {
 			for (int j = 1; j < 10; j++) {
